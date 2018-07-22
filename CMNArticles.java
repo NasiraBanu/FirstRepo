@@ -23,6 +23,8 @@ public class CMNArticles {
 	WebDriver driver3;
 	WebDriver driver4;
 	WebDriver driver5;
+	WebDriver driver6;
+	
 	
 	String Title;
 	String Description;
